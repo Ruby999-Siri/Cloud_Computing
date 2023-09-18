@@ -1,0 +1,143 @@
+Google Cloud :
+
+
+Basics of cloud computing:
+
+store, acess, utilize the data.
+
+
+What is Cloud Computing?
+
+ * 	Cloud computing refers to the delivery of computing services, such as servers, storage, databases, software, and networking, over the Internet.
+ * Instead of relying on local servers or personal devices, users can access and utilize 	these resources from anywhere, at any time, using any internet-connected device.
+
+** Essentials of Cloud Computing
+=>  The essentials of cloud computing include the following key components:
+~ On-Demand Self-Service:
+~ Broad Network Access:
+~ Resource Pooling:
+~ Rapid Elasticity:
+~ Measured Service:
+~ Multi-tenancy:
+~ Service Models:
+
+Infrastructure as a Service (IaaS):
+* 	Users have access to virtualized computing resources, such as virtual machines, storage, and networks, allowing them to deploy and manage their applications.
+
+Platform as a Service (PaaS): 
+*  	Users can develop, deploy, and manage applications using programming languages, libraries, and tools provided by the cloud provider without worrying about the underlying infrastructure.
+
+Software as a Service (SaaS): 
+* 	Users can access and use software applications provided by the cloud provider over the internet, without the need for 	installation or management on their local devices.
+
+
+* These essentials of cloud computing form the foundation for the flexible, scalable, and cost-effective delivery of computing services over the Internet.
+
+Need for Cloud Computing
+Reduced Cost:
+Scalability:
+Remote Access:
+Disaster Relief: 
+Ease of implementation:
+
+
+Why do we need servers?
+providing enhanced security and easy integration with backup/recovery tools.
+
+
+
+History of Cloud Computing
+
+=> Client-Server Technology :
+Client-server technology plays a significant role in the history and development of cloud computing. It forms the foundation for distributed architecture and enables the seamless delivery of cloud services to end users.
+
+
+
+As technology advanced, the Internet became widely available, enabling connectivity and communication between clients and servers over vast distances. This connectivity paved the way for the emergence of cloud computing.
+***** => The client-server model, combined with internet connectivity, laid the foundation for 			the cloud computing infrastructure <= ******   we know today.
+
+
+In summary,
+* The shift from centralized mainframes to decentralized client-server systems set the stage for the scalable, flexible, and accessible nature of cloud computing. 
+* The concepts and principles of client-server technology continue to influence and shape the development of cloud computing as it continues to evolve.
+
+
+The P2P approach influenced the development of cloud computing in several ways:
+Resource Sharing:
+Scalability and Redundancy:
+Decentralization:
+User Collaboration:
+Hybrid Models:
+
+* It is important to note that while P2P influenced the development of cloud computing, the modern cloud infrastructure primarily relies on centralized data centers operated by cloud service providers. 
+* These providers offer standardized and highly scalable services, allowing users to access computing resources on demand.
+
+
+
+Distributed Computing:
+
+
+* Historically, computing resources were centralized within large mainframe computers, which were expensive and accessible to a limited number of users. 
+* As computer networks emerged, distributed computing emerged as a solution to leverage the power of multiple interconnected machines.
+
+* The term "cloud computing" emerged in the early 2000s, with the concept being popularized by companies like Amazon, Google, and Salesforce. 
+* These companies recognized the potential of delivering computing resources and services over the Internet. 
+* They began offering infrastructure, platforms, and software as services, forming the foundation of the cloud computing paradigm.
+
+
+* Cloud computing builds upon the principles of distributed computing by leveraging the internet to provide on-demand access to a wide range of resources. 
+* It enables users to access computing power, storage, and software applications from remote data centers, eliminating the need for local infrastructure.
+
+Moreover, the redundancy and fault tolerance built into cloud infrastructure minimizes the risk of service disruptions and data loss.
+
+GRID COMPUTING:
+
+
+* he key characteristics of grid computing included resource sharing, coordinated problem-solving, and decentralized control.
+
+* Grid computing focused on harnessing the collective power of geographically distributed computers to solve complex problems and perform large-scale computations.
+
+* While grid computing provided a scalable and distributed computing environment, it had limitations in terms of scalability, ease of use, and resource allocation. These limitations led to the evolution of cloud computing, which addressed these challenges and offered a more user-friendly and scalable model.
+
+
+Platform Virtualisation:
+
+* Platform virtualization, also known as hardware virtualization, is a technology that enables the creation and management of virtual machines (VMs) on a single physical computer. It allows multiple operating systems (OS) and applications to run independently and simultaneously on a shared hardware platform.
+
+
+Key Components of Platform Virtualization:
+> Hypervisor:
+ * The hypervisor, also referred to as a virtual machine monitor (VMM)
+manages the hardware allocation.
+
+> Virtual Machine:
+
+manages the virtual hardware and each virtual machine runs its own instance of the os and multiple os environments to coexit on the same physical Hardware.
+
+> Virtual Machine Manager:
+ * A virtual machine manager is a management tool or interface used to create, configure, monitor, and manage virtual machines. 
+ * It allows administrators to allocate hardware resources,etc....
+
+
+
+Benefits of Platform Virtualization:
+Server Consolidation: 
+Isolation and Security:
+Resource Optimization:
+Testing and Development: 
+High Availability and Disaster Recovery:
+
+
+
+Service Oriented Architecture(SOA):
+Key Concepts in Service-Oriented Architecture:
+Service: 
+Service Provider:
+Service Consumer:
+Service Registry:
+Service Composition:
+
+
+> SOA has become a widely adopted architectural style in enterprise computing, enabling organizations to build flexible and scalable systems that can adapt to evolving business needs. 
+> It facilitates integration, collaboration, and agility, allowing organizations to leverage existing assets while embracing new technologies and innovations.
+
